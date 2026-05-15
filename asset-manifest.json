@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/IEEE-Stuff/static/css/main.52f3ae84.css",
-    "main.js": "/IEEE-Stuff/static/js/main.54f58d6a.js",
+    "main.js": "/IEEE-Stuff/static/js/main.3e560ce8.js",
     "static/js/453.3f240b36.chunk.js": "/IEEE-Stuff/static/js/453.3f240b36.chunk.js",
+    "static/media/TP_26_5.jpg": "/IEEE-Stuff/static/media/TP_26_5.d14849d8edb7e029b57b.jpg",
     "static/media/AI_Flyer.png": "/IEEE-Stuff/static/media/AI_Flyer.dd37823d5ce9c8702f62.png",
     "static/media/TP_2.jpg": "/IEEE-Stuff/static/media/TP_2.15a808edbb724a5c10d9.jpg",
     "static/media/IEEELogo.png": "/IEEE-Stuff/static/media/IEEELogo.2d72d3b97c8ddfef550b.png",
-    "static/media/events.md": "/IEEE-Stuff/static/media/events.8520c965a3e320576110.md",
+    "static/media/events.md": "/IEEE-Stuff/static/media/events.69cb6ea98237d3882c4d.md",
     "index.html": "/IEEE-Stuff/index.html",
     "main.52f3ae84.css.map": "/IEEE-Stuff/static/css/main.52f3ae84.css.map",
-    "main.54f58d6a.js.map": "/IEEE-Stuff/static/js/main.54f58d6a.js.map",
+    "main.3e560ce8.js.map": "/IEEE-Stuff/static/js/main.3e560ce8.js.map",
     "453.3f240b36.chunk.js.map": "/IEEE-Stuff/static/js/453.3f240b36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52f3ae84.css",
-    "static/js/main.54f58d6a.js"
+    "static/js/main.3e560ce8.js"
   ]
 }
