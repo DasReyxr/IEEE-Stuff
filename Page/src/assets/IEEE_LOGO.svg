@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="IEEE logo placeholder">
+  <rect width="320" height="320" rx="40" fill="#ffffff"/>
+  <rect x="10" y="10" width="300" height="300" rx="32" fill="#00629b" opacity="0.1"/>
+  <circle cx="160" cy="160" r="92" fill="#00629b" opacity="0.12"/>
+  <text x="160" y="150" text-anchor="middle" font-family="Barlow, Segoe UI, sans-serif" font-size="48" font-weight="700" fill="#00629b">IEEE</text>
+  <text x="160" y="198" text-anchor="middle" font-family="Barlow, Segoe UI, sans-serif" font-size="18" fill="#00629b" opacity="0.75">LOGO</text>
+</svg>

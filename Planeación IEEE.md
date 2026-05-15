@@ -16,7 +16,7 @@
 
 ### Responsable y equipo
 - **Encargado(a) del proyecto:** Das
-- **Equipo/apoyos:** Raul, Andres de ICI para web, Oscar y Andres para formato
+- **Equipo/apoyos:**  Andres de ICI para web, Oscar y Andres para formato
 - **Contactos clave / aliados:**
 
 ### Recursos

@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "conferencia-ia",
+    "title": "Conferencia: Más allá de la IA",
+    "date": "Mayo 2026",
+    "dateISO": "2026-05-11",
+    "category": "Conferencia",
+    "accent": "#0077b6",
+    "subtitle": "En la charla “Más allá de la IA”, Omar Bazán Ruiz compartió cómo complementar la inteligencia artificial con hábitos y herramientas personales —como el deporte y el arte— para destacar en el entorno universitario.",
+    "excerpt": "La comunidad IEEE UAA se reunió en “Más allá de la IA” para reflexionar sobre el uso estratégico de la IA y el desarrollo de habilidades humanas para sobresalir.",
+    "summary": "Conferencia enfocada en usar la IA como herramienta y fortalecer habilidades como pensamiento crítico, disciplina y creatividad para impulsar el crecimiento académico y profesional.",
+    "location": "UAA - Auditorio Salazar Negrete Edif 202",
+    "time": "11:00",
+    "image": "TP_2.jpg",
+    "imageAlt": "Conferencia “Más allá de la IA” en IEEE UAA",
+    "imageLabel": "Conferencia",
+    "body": [
+      "El 11 de mayo de 2026, la Rama Estudiantil IEEE UAA realizó la conferencia “Más allá de la IA” en el Auditorio Salazar Negrete (Edif. 202), con la participación de Omar Bazán Ruiz. La sesión reunió a estudiantes y profesores interesados en el uso responsable y estratégico de la inteligencia artificial en el contexto universitario.",
+      "Durante la charla se destacó que la IA es una herramienta de apoyo, no un sustituto: para mantenernos vigentes es clave desarrollar un conjunto de habilidades y hábitos que nos complementen. Se habló de la importancia del pensamiento crítico, la comunicación y la creatividad, así como de actividades como el deporte o el arte para fortalecer disciplina, enfoque y perspectiva.",
+      "La actividad cerró con un espacio de preguntas y conversación sobre formas prácticas de integrar IA en proyectos: desde prompts y notebooks hasta automatizaciones sencillas. Gracias a quienes asistieron; seguiremos compartiendo actividades y recursos para impulsar la comunidad."
+    ],
+    "quote": "La IA es una herramienta de apoyo, no un sustituto; lo importante es aprender a pensar mejor y construir más rápido.",
+    "details": [
+      "Conferencia “Más allá de la IA” con Omar Bazán Ruiz.",
+      "Reflexión sobre habilidades complementarias: pensamiento crítico, comunicación, creatividad y disciplina.",
+      "Ideas prácticas para aplicar IA en proyectos: prompts, notebooks y automatización.",
+      "Sesión de preguntas y networking con la comunidad IEEE UAA."
+    ]
+  },
+  {
+    "slug": "toma-protesta",
+    "title": "Toma de protesta IEEE UAA 2026",
+    "date": "Mayo 2026",
+    "dateISO": "2026-04-20",
+    "category": "Comunidad",
+    "accent": "#005b9f",
+    "subtitle": "La Rama Estudiantil IEEE UAA renovó su mesa directiva y formalizó el compromiso de impulsar actividades técnicas, de formación y de comunidad durante el periodo 2026.",
+    "excerpt": "La toma de protesta del comité 2026 marcó el inicio de una nueva etapa para fortalecer la comunidad IEEE UAA con actividades técnicas y de participación estudiantil.",
+    "summary": "Ceremonia de toma de protesta del nuevo comité IEEE UAA 2026 y presentación de líneas de trabajo para mantener una comunidad activa y con oportunidades durante el semestre.",
+    "location": "UAA - Auditorio Salazar Negrete Edif 202",
+    "time": "11:00",
+    "image": "TP_1.jpg",
+    "imageAlt": "Toma de protesta IEEE UAA",
+    "imageLabel": "Ceremonia",
+    "body": [
+      "La Rama Estudiantil IEEE UAA llevó a cabo la toma de protesta del comité 2026, en un evento que reunió a estudiantes, docentes e invitados para dar la bienvenida a la nueva mesa directiva.",
+      "Durante la ceremonia se presentaron los objetivos del periodo y las principales líneas de trabajo: impulsar actividades técnicas, talleres y espacios de formación, además de fortalecer la difusión y la participación de la comunidad.",
+      "El evento concluyó con un espacio de convivencia y fotografías oficiales del equipo, marcando el inicio de una nueva etapa de trabajo colaborativo para mantener una comunidad activa durante el semestre."
+    ],
+    "quote": "Nuestro objetivo es abrir oportunidades y mantener la comunidad activa durante todo el semestre.",
+    "details": [
+      "Presentación de la mesa directiva 2026.",
+      "Mensaje de bienvenida y líneas de trabajo del periodo.",
+      "Fotografía oficial y convivencia con invitados y comunidad."
+    ]
+  }
+]
