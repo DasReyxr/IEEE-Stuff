@@ -1,6 +1,7 @@
 <!-- EVENT -->
 ---
 slug: conferencia-ia
+registerLink: https://forms.gle/3e8F38F2yY5Z7mJW7
 title: "Conferencia: Más allá de la IA"
 date: "Mayo 2026"
 dateISO: "2026-05-11"
@@ -11,7 +12,7 @@ excerpt: "La comunidad IEEE UAA se reunió en “Más allá de la IA” para ref
 summary: "Conferencia enfocada en usar la IA como herramienta y fortalecer habilidades como pensamiento crítico, disciplina y creatividad para impulsar el crecimiento académico y profesional."
 location: "UAA - Auditorio Salazar Negrete Edif 202"
 time: "11:00"
-image: "TP_2.jpg"
+image: "AI_Flyer.png"
 imageAlt: "Conferencia “Más allá de la IA” en IEEE UAA"
 imageLabel: "Conferencia"
 ---
@@ -23,7 +24,7 @@ Al cierre, se abrió un espacio de preguntas y conversación sobre formas concre
 
 > La IA es una herramienta de apoyo, no un sustituto; lo importante es aprender a pensar mejor y construir más rápido.
 
-![Omar Bazán Ruiz durante la conferencia “Más allá de la IA”](/tp_omar.jpg)
+![Omar Bazán Ruiz durante la conferencia “Más allá de la IA”](/AI_Omar.jpg)
 *Omar Bazán Ruiz durante la conferencia “Más allá de la IA.*
 
 ## Lo que se vio
@@ -45,7 +46,7 @@ excerpt: "La toma de protesta del comité 2026 marcó el inicio de una nueva eta
 summary: "Ceremonia de toma de protesta del nuevo comité IEEE UAA 2026 y presentación de líneas de trabajo para mantener una comunidad activa y con oportunidades durante el semestre."
 location: "UAA - Auditorio Salazar Negrete Edif 202"
 time: "11:00"
-image: "TP_1.jpg"
+image: "TP_2.jpg"
 imageAlt: "Toma de protesta IEEE UAA"
 imageLabel: "Ceremonia"
 ---

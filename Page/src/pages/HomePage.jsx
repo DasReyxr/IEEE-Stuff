@@ -70,10 +70,10 @@ export default function HomePage() {
                       <h2 className="featured-title">{featured.title}</h2>
                       <p className="featured-lead">{featured.excerpt}</p>
                       <div className="detail-actions">
-                        <Link className="btn primary" to={`/noticias/${featured.slug}`}>
-                          Quiero registrarme
-                        </Link>
-                        <Link className="btn primary" to={`/noticias/${featured.slug}`}>
+                        <a className="btn primary"  href={featured.registerLink}  target="_blank"  rel="noopener noreferrer">
+                        Quiero registrarme
+                        </a>
+                        <Link className="btn primary" to={`/${featured.slug}`}>
                           Leer mas
                         </Link>
                       </div>
@@ -95,7 +95,7 @@ export default function HomePage() {
 
       <footer className="footer">
         <div className="container footer-inner">
-          <div>Demo de layout (React + CSS) inspirado en una pagina escolar.</div>
+          <div>auf Das.</div>
           <div>
             <a href="#aviso">Aviso</a> · <a href="#privacidad">Privacidad</a>
           </div>

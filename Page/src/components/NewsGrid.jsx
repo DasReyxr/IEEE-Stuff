@@ -10,7 +10,7 @@ export default function NewsGrid({ events }) {
     <div className="news-grid">
       {events.map((event) => (
         <article key={event.slug} className="card" style={{ '--accent': event.accent }}>
-          <Link to={`/noticias/${event.slug}`} aria-label={event.title}>
+          <Link to={`/${event.slug}`} aria-label={event.title}>
             <div className="card-media">
               <img
                 src={event.imageSrc || placeholderDataUrl(event.title, event.accent)}

@@ -1,10 +1,10 @@
 import eventsFile from '../content/events/events.md';
-import tp1 from '../assets/TP_1.jpg';
+import ev1 from '../assets/AI_Flyer.png';
 import tp2 from '../assets/TP_2.jpg';
 import { placeholderDataUrl } from './placeholders';
 
 const IMAGE_MAP = {
-  'TP_1.jpg': tp1,
+  'AI_Flyer.png': ev1,
   'TP_2.jpg': tp2,
 };
 

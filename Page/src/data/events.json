@@ -1,6 +1,7 @@
 [
   {
     "slug": "conferencia-ia",
+    "registerLink": "https://forms.gle/3e8F38F2yY5Z7mJW7",
     "title": "Conferencia: Más allá de la IA",
     "date": "Mayo 2026",
     "dateISO": "2026-05-11",
@@ -39,7 +40,7 @@
     "summary": "Ceremonia de toma de protesta del nuevo comité IEEE UAA 2026 y presentación de líneas de trabajo para mantener una comunidad activa y con oportunidades durante el semestre.",
     "location": "UAA - Auditorio Salazar Negrete Edif 202",
     "time": "11:00",
-    "image": "TP_1.jpg",
+    "image": "TP_12.jpg",
     "imageAlt": "Toma de protesta IEEE UAA",
     "imageLabel": "Ceremonia",
     "body": [

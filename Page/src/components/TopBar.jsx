@@ -2,8 +2,7 @@ import { useId, useState } from 'react';
 import ieeeLogo from '../assets/IEEELogo.png';
 
 const NAV = [
-  { label: 'Inicio', href: '#inicio' },
-  { label: 'Que hay de nuevo', href: '#noticias' },
+  { label: 'Inicio', href: '' },
   { label: 'Eventos', href: '#eventos' },
   { label: 'Recursos', href: '#recursos' },
   { label: 'Convocatorias', href: '#convocatorias' },
@@ -21,7 +20,7 @@ export default function TopBar() {
   return (
     <div className="topbar">
       <div className="container topbar-inner">
-        <a className="brand" href="#inicio" onClick={onNavClick}>
+        <a className="brand" href="" onClick={onNavClick}>
           <img className="brand-logo" src={ieeeLogo} alt="Logo IEEE" />
           <div>
             <div className="brand-title">IEEE UAA</div>

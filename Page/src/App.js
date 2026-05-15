@@ -1,16 +1,16 @@
 import './App.css';
 import HomePage from './pages/HomePage';
 import EventDetail from './pages/EventDetail';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/noticias/:slug" element={<EventDetail />} />
+        <Route path="/:slug" element={<EventDetail />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
