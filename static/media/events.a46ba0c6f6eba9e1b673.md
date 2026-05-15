@@ -23,7 +23,7 @@ Al cierre, se abrió un espacio de preguntas y conversación sobre formas concre
 
 > La IA es una herramienta de apoyo, no un sustituto; lo importante es aprender a pensar mejor y construir más rápido.
 
-![Omar Bazán Ruiz durante la conferencia “Más allá de la IA”](/tp_omar.jpg)
+![Omar Bazán Ruiz durante la conferencia “Más allá de la IA”](/ghFiles/ieee/IEEE-Stuff/Page/public/tp_omar.jpg)
 *Omar Bazán Ruiz durante la conferencia “Más allá de la IA.*
 
 ## Lo que se vio
