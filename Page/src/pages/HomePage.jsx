@@ -72,7 +72,7 @@ export default function HomePage() {
                       <p className="featured-lead">{featured.excerpt}</p>
                       <div className="detail-actions">
                         <a className="btn primary"  href={featured.registerLink}  target="_blank"  rel="noopener noreferrer">
-                        {featured.done ? 'Quiero registrarme' : '¿Cómo te pareció?'}
+                        {featured.done ?  '¿Cómo te pareció?' : 'Quiero registrarme'}
                         </a>
                         <Link className="btn primary" to={`/${featured.slug}`}>
                           Leer mas
