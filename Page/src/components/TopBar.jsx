@@ -3,10 +3,9 @@ import ieeeLogo from '../assets/IEEELogo.png';
 
 const NAV = [
   { label: 'Inicio', href: '' },
-  { label: 'Eventos', href: '#eventos' },
   { label: 'Recursos', href: '#recursos' },
   { label: 'Convocatorias', href: '#convocatorias' },
-  { label: 'Contacto', href: '#contacto' },
+  { label: 'Contacto', href: '#/contacto' },
 ];
 
 export default function TopBar() {

@@ -2,8 +2,9 @@
 ---
 slug: conferencia-ia
 registerLink: https://forms.gle/3e8F38F2yY5Z7mJW7
+done: true
 title: "Conferencia: Más allá de la IA"
-date: "Mayo 2026"
+date: "11 Mayo 2026"
 dateISO: "2026-05-11"
 category: "Conferencia"
 accent: "#0077b6"
@@ -24,7 +25,7 @@ Al cierre, se abrió un espacio de preguntas y conversación sobre formas concre
 
 > La IA es una herramienta de apoyo, no un sustituto; lo importante es aprender a pensar mejor y construir más rápido.
 
-![Omar Bazán Ruiz durante la conferencia “Más allá de la IA”](/AI_Omar.jpg)
+![Omar Bazán Ruiz durante la conferencia “Más allá de la IA”](/events/AI_Omar.jpg)
 *Omar Bazán Ruiz durante la conferencia “Más allá de la IA.*
 
 ## Lo que se vio
@@ -37,8 +38,9 @@ Al cierre, se abrió un espacio de preguntas y conversación sobre formas concre
 ---
 slug: toma-protesta
 title: "Toma de protesta IEEE UAA 2026"
-date: "Abril 2026"
-dateISO: "2026-04-20"
+date: "11 Mayo 2026"
+done: true
+dateISO: "2026-05-11"
 category: "Comunidad"
 accent: "#005b9f"
 subtitle: "La Rama Estudiantil IEEE UAA renovó su mesa directiva y formalizó el compromiso de impulsar actividades técnicas, de formación y de comunidad durante el periodo 2026."
@@ -50,7 +52,7 @@ image: "TP_2.jpg"
 imageAlt: "Toma de protesta IEEE UAA"
 imageLabel: "Ceremonia"
 ---
-El 20 de abril de 2026 se realizó la toma de protesta del comité 2026 de la Rama Estudiantil IEEE UAA en el Auditorio Salazar Negrete (Edif. 202). El evento reunió a estudiantes, docentes e invitados para dar la bienvenida a la nueva mesa directiva.
+El 11 de mayo de 2026 se realizó la toma de protesta del comité 2026 de la Rama Estudiantil IEEE UAA en el Auditorio Salazar Negrete (Edif. 202). El evento reunió a estudiantes, docentes e invitados para dar la bienvenida a la nueva mesa directiva.
 
 Durante la ceremonia se presentaron los objetivos del periodo y las líneas de trabajo que guiarán las actividades del semestre: actividades técnicas, espacios de formación y acciones de comunidad para mantener a IEEE UAA activo y con oportunidades para más estudiantes.
 

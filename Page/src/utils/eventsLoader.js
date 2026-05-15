@@ -10,6 +10,7 @@ const IMAGE_MAP = {
 
 let cachedEvents = null;
 let pending = null;
+const PUBLIC_URL = process.env.PUBLIC_URL || '';
 
 function parseEvents(text) {
   const chunks = text
@@ -20,9 +21,27 @@ function parseEvents(text) {
   return chunks
     .map((chunk) => {
       const { data, content } = parseFrontmatter(chunk);
+      // Replace image paths that start with '/' to include PUBLIC_URL so
+      // they resolve correctly both in dev server and on GitHub Pages.
+          // Normalize image links to point to PUBLIC_URL so images placed in `public/` load
+          // Works for links like `/TP_Omar.jpg` or `TP_Omar.jpg` in Markdown.
+          const pub = PUBLIC_URL;
+          const fixedContent = content.replace(/(!\[[^\]]*\]\()([^\)]+)\)/g, (m, prefix, path) => {
+            const trimmed = path.trim();
+            if (/^https?:\/\//i.test(trimmed)) return m; // external links unchanged
+            // remove any surrounding <> if present
+            const unwrapped = trimmed.replace(/^<|>$/g, '');
+            // if path already contains PUBLIC_URL, leave it
+            if (pub && unwrapped.startsWith(pub)) return m;
+            // build a normalized URL pointing to public folder
+            const pathNoLeading = unwrapped.replace(/^\//, '');
+            const normalized = pub ? `${pub}/${pathNoLeading}` : `/${pathNoLeading}`;
+            return `${prefix}${normalized})`;
+          });
+
       return {
         ...data,
-        body: content.trim(),
+        body: fixedContent.trim(),
       };
     })
     .filter((event) => event.slug);
