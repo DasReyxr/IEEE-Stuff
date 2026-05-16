@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/IEEE/static/css/main.52f3ae84.css",
-    "main.js": "/IEEE/static/js/main.f4a67cf7.js",
+    "main.js": "/IEEE/static/js/main.9a538856.js",
     "static/js/453.d0cf5e85.chunk.js": "/IEEE/static/js/453.d0cf5e85.chunk.js",
     "static/media/TP_26_5.jpg": "/IEEE/static/media/TP_26_5.d14849d8edb7e029b57b.jpg",
     "static/media/AI_Flyer.png": "/IEEE/static/media/AI_Flyer.dd37823d5ce9c8702f62.png",
     "static/media/TP_2.jpg": "/IEEE/static/media/TP_2.15a808edbb724a5c10d9.jpg",
     "static/media/IEEELogo.png": "/IEEE/static/media/IEEELogo.2d72d3b97c8ddfef550b.png",
-    "static/media/events.md": "/IEEE/static/media/events.8e81552ad05fef372898.md",
+    "static/media/events.md": "/IEEE/static/media/events.e692c6b370e85d1c57cd.md",
     "index.html": "/IEEE/index.html",
     "main.52f3ae84.css.map": "/IEEE/static/css/main.52f3ae84.css.map",
-    "main.f4a67cf7.js.map": "/IEEE/static/js/main.f4a67cf7.js.map",
+    "main.9a538856.js.map": "/IEEE/static/js/main.9a538856.js.map",
     "453.d0cf5e85.chunk.js.map": "/IEEE/static/js/453.d0cf5e85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52f3ae84.css",
-    "static/js/main.f4a67cf7.js"
+    "static/js/main.9a538856.js"
   ]
 }
