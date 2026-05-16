@@ -41,22 +41,11 @@ export default function HomePage() {
         <main className="page">
           <section className="hero">
             <div className="container">
-              <div className="intro-grid">
-                <div>
-                  <h1 className="section-title">¿Qué hay de nuevo?</h1>
-                  <p className="lead">
-                    ¡Hola! Bienvenido a la página oficial de la Rama Estudiantil IEEE UAA. Aquí encontrarás las últimas noticias, eventos y recursos relacionados con nuestra comunidad estudiantil. 
-                    La página aún sigue en desarrollo, por lo que es posible que encuentres algunos detalles sin pulir o información faltante. Estamos trabajando para mejorar la experiencia y ofrecerte el mejor contenido posible. ¡Gracias por tu comprensión y apoyo!
-                  </p>
-                </div>
+              <h1 className="section-title">¿Qué hay de nuevo?</h1>
+              <p className="lead">
+                    ¡Hola! Bienvenido a la página oficial de la Rama Estudiantil IEEE UAA. Aquí encontrarás las últimas noticias, eventos y recursos relacionados con nuestra comunidad   estudiantil. 
+                    La página aún sigue en desarrollo, por lo que es posible que encuentres algunos detalles sin pulir o información faltante. Estamos trabajando para mejorar la experiencia y ofrecerte el mejor contenido posible. ¡Gracias por tu comprensión y apoyo!              </p>
 
-                <div>
-                  <h1 className="section-title">¿Quienes somos?</h1>
-                  <p className="lead">
-                    Somos la Rama Estudiantil IEEE UAA, un grupo de estudiantes apasionados por la tecnología y la innovación. Nuestra misión es fomentar el desarrollo profesional y personal de nuestros miembros a través de actividades, eventos y proyectos relacionados con la ingeniería electrónica, sistemas, computación y áreas afines. Nos esforzamos por crear una comunidad inclusiva y colaborativa donde los estudiantes puedan aprender, compartir conocimientos y crecer juntos en el mundo de la tecnología.
-                  </p>
-                </div>
-              </div>
               {!featured ? (
                 <p className="lead">Cargando eventos...</p>
               ) : (
@@ -99,6 +88,15 @@ export default function HomePage() {
             <div className="container">
               <h2 className="section-title">Mas eventos</h2>
               <NewsGrid events={rest} />
+            </div>
+          </section>
+
+          <section className="about-band" id="quienes-somos">
+            <div className="about-band-inner">
+              <h2 className="section-title">¿Quienes somos?</h2>
+              <p className="lead">
+                Somos la Rama Estudiantil IEEE UAA, un grupo de estudiantes apasionados por la tecnología y la innovación. Nuestra misión es fomentar el desarrollo profesional y personal de nuestros miembros a través de actividades, eventos y proyectos relacionados con la ingeniería electrónica, sistemas, computación y áreas afines. Nos esforzamos por crear una comunidad inclusiva y colaborativa donde los estudiantes puedan aprender, compartir conocimientos y crecer juntos en el mundo de la tecnología.
+              </p>
             </div>
           </section>
         </main>

@@ -11,9 +11,38 @@
   margin-bottom: 1.25rem;
 }
 
+.about-band {
+  width: 100%;
+  margin-top: 2rem;
+  padding: 3rem 0;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.85));
+  border-top: 1px solid rgba(10, 30, 48, 0.08);
+  border-bottom: 1px solid rgba(10, 30, 48, 0.08);
+}
+
+.about-band-inner {
+  width: min(var(--container), calc(100% - 2 * var(--gutter)));
+  margin-inline: auto;
+}
+
+.about-band .section-title {
+  margin-bottom: 0.75rem;
+}
+
+.about-band .lead {
+  max-width: none;
+  margin: 0;
+  text-align: justify;
+  text-wrap: pretty;
+}
+
 @media (max-width: 900px) {
   .intro-grid {
     grid-template-columns: 1fr;
+  }
+
+  .about-band {
+    padding: 2rem 0;
   }
 }
 
