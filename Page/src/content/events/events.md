@@ -1,4 +1,3 @@
-
 <!-- EVENT -->
 ---
 slug: conferencia-ia
@@ -20,9 +19,11 @@ imageLabel: "Conferencia"
 ---
 El 11 de mayo de 2026, la Rama Estudiantil IEEE UAA llevó a cabo la conferencia “Más allá de la IA” en el Auditorio Salazar Negrete (Edif. 202). Con la participación de Omar Bazán Ruiz, la sesión reunió a estudiantes y profesores interesados en integrar la IA de manera responsable y práctica.
 
-Durante la charla se remarcó que la IA es una herramienta de apoyo, no un sustituto. Para mantenernos vigentes, es clave desarrollar habilidades que nos complementen: pensamiento crítico, comunicación, creatividad y disciplina. También se compartió la importancia de actividades como el deporte o el arte para fortalecer hábitos de enfoque, constancia y perspectiva.
+Durante la charla se remarcó que la IA es una herramienta de apoyo, no un sustituto. Para mantenernos vigentes, es clave desarrollar habilidades que nos complementen: pensamiento crítico, comunicación, creatividad y disciplina. También se compartió la importancia de actividades como el deporte o el arte para fortalecer hábitos de enfoque, constancia y perspectiva. Asímismo se platicó sobre los diferentes tipos de inteligencia y como solemos centrarnos en la inteligencia lógica-matemática siendo esta la mas fácil de complementar con la IA, pero no la única ni la mas importante.
+![Tipos de Inteligencia”](/events/AI_Inteligencia.png)
 
-Al cierre, se abrió un espacio de preguntas y conversación sobre formas concretas de aplicar IA en proyectos estudiantiles, desde prompts y notebooks hasta automatizaciones sencillas.
+Asímismo nos compartió su experiencia como reclutador de talento tecnológico, destacando que el uso estratégico de la IA es cada vez más valorado en el ámbito profesional. Se enfatizó que la IA no reemplaza habilidades humanas, sino que potencia aquellas que nos hacen únicos: pensamiento crítico, creatividad, comunicación y disciplina. De la misma forma nos compartió un listado de preguntas que suele realizar a los candidatos para evaluar su capacidad de complementar la IA con habilidades humanas
+![Preguntas de Reflexión](/events/AI_Preguntas.png)
 
 > La IA es una herramienta de apoyo, no un sustituto; lo importante es aprender a pensar mejor y construir más rápido.
 
@@ -31,7 +32,6 @@ Al cierre, se abrió un espacio de preguntas y conversación sobre formas concre
 
 ## Lo que se vio
 - IA como herramienta: enfoque y criterios para usarla con intención.
-- Herramientas sugeridas: prompts, notebooks y automatización.
 - Habilidades y hábitos complementarios: pensamiento crítico, disciplina, deporte y arte.
 - Sesión de preguntas y networking con la comunidad IEEE UAA.
 

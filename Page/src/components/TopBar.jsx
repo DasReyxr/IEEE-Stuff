@@ -3,8 +3,8 @@ import ieeeLogo from '../assets/IEEELogo.png';
 
 const NAV = [
   { label: 'Inicio', href: '' },
-  { label: 'Recursos', href: '#recursos' },
-  { label: 'Convocatorias', href: '#convocatorias' },
+  // { label: 'Recursos', href: '#recursos' },
+//  { label: 'Convocatorias', href: '#convocatorias' },
   { label: 'Contacto', href: '#/contacto' },
 ];
 
