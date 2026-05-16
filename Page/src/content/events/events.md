@@ -1,8 +1,9 @@
+
 <!-- EVENT -->
 ---
 slug: conferencia-ia
 registerLink: https://forms.gle/3e8F38F2yY5Z7mJW7
-done: true
+done: True
 title: "Conferencia: Más allá de la IA"
 date: "11 Mayo 2026"
 dateISO: "2026-05-11"
@@ -34,12 +35,13 @@ Al cierre, se abrió un espacio de preguntas y conversación sobre formas concre
 - Habilidades y hábitos complementarios: pensamiento crítico, disciplina, deporte y arte.
 - Sesión de preguntas y networking con la comunidad IEEE UAA.
 
+Agradecemos y reconocemos el valioso apoyo de [Juan Andrés Rodríguez Parra](https://www.instagram.com/andorezu_/) como fotógrafo en nuestros eventos. Su trabajo fue clave para documentar cada momento y compartirlo con la comunidad IEEE UAA.
 <!-- EVENT -->
 ---
 slug: toma-protesta
 title: "Toma de protesta IEEE UAA 2026"
 date: "11 Mayo 2026"
-done: true
+done: True
 dateISO: "2026-05-11"
 category: "Comunidad"
 accent: "#005b9f"
@@ -58,9 +60,18 @@ Durante la ceremonia se presentaron los objetivos del periodo y las líneas de t
 
 La jornada concluyó con un espacio de convivencia y fotografías oficiales del equipo, marcando el inicio de una etapa de trabajo colaborativo.
 
-> Nuestro objetivo es abrir oportunidades y mantener la comunidad activa durante todo el semestre.
+> El color azul de la IEEE no solo representa tecnología y profesionalismo, sino la disciplina del agua, que se adapta, fluye y encuentra su camino, al igual que nuestra comunidad.
+![Mesa directiva 2026](/events/TP_Comitee.jpg)
 
-## Momentos clave
-- Presentación de la mesa directiva 2026.
-- Mensaje de bienvenida y líneas de trabajo del periodo.
-- Fotografía oficial y convivencia con invitados y comunidad.
+El evento contó con la presencia de estudiantes, docentes e invitados especiales, quienes compartieron un momento de bienvenida y compromiso con el nuevo comité. Se enfatizó la importancia de mantener una comunidad activa y participativa para aprovechar al máximo las oportunidades que ofrece IEEE.
+![Toma de Protesta 2026](/events/TP_Audit.jpg)
+
+
+Al concluir el evento, se realizó una sesión de convivencia entre los asistentes, acompañado de comida y souvenirs, para fortalecer los lazos entre los miembros de la comunidad IEEE UAA y celebrar el inicio de una nueva etapa de trabajo colaborativo.
+![Comida](/events/TP_Comida.jpg)
+
+![Comida](/events/TP_Stickers.jpg)
+
+
+
+Agradecemos y reconocemos el valioso apoyo de [Juan Andrés Rodríguez Parra](https://www.instagram.com/andorezu_/) como fotógrafo en nuestros eventos. Su trabajo fue clave para documentar cada momento y compartirlo con la comunidad IEEE UAA.

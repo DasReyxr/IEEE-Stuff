@@ -66,15 +66,15 @@ export default function HomePage() {
                         <span className="dot" aria-hidden="true" />
                         <span className="pill">{featured.category}</span>
                         <span className="date">{featured.date}</span>
-                        <span className="date">{featured.done ? 'Realizado' : 'Por venir'  }</span>
+                        <span className="date">{featured.done == 'True'? 'Realizado' : 'Por venir'  }</span>
                       </div>
                       <h2 className="featured-title">{featured.title}</h2>
                       <p className="featured-lead">{featured.excerpt}</p>
                       <div className="detail-actions">
                         <a className="btn primary"  href={featured.registerLink}  target="_blank"  rel="noopener noreferrer">
-                        {featured.done ?  '¿Cómo te pareció?' : 'Quiero registrarme'}
+                        {featured.done == 'True'? '¿Cómo te pareció?' : 'Quiero registrarme'}
                         </a>
-                        <Link className="btn primary" to={`/${featured.slug}`}>
+                        <Link className="btn ghost" to={`/${featured.slug}`}>
                           Leer mas
                         </Link>
                       </div>
